@@ -15,11 +15,8 @@ This dashboard visualization was based on Yes Bank stock market data.In this das
 #### 2. McdonaldSchaefer Campaign Dashboard
 This dashboard visualization was based on Capital campaign.In this dashboard we have used the 3rd party api(quickbase) to get the realtime data and the dashboard that we designed was the collection of the record of donors on how much fund are they raising and collecting throughout different campaigns.
 
-![App Screenshot](https://www.linkpicture.com/q/sample_6.jpg)
 #### 3. Life Insurance Claim Analysis
 This dashboard visualization was based on Life Insurance data.In this dashboard we have done analysis on how much Insurance is claimed throughout the year depending upon their profile,gender,cause by death,age group and many more.
-
-![App Screenshot](https://www.linkpicture.com/q/2222_8.jpg)
 
 ## Contributing
 
